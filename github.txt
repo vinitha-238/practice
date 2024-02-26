@@ -1,0 +1,49 @@
+Git - Git is a version control system.
+Git helps you keep track of code changes.
+Git is used to collaborate on code.
+GUTHUB-web based git repository hosting service
+
+to check version of git
+git --version
+
+to clone repository
+git clone <url>
+
+to configure git
+git config --global user.name "vinitha-238"
+git config --global user.email "vinitharajendran2308@gmail.com" 
+
+move to created folder
+cd foldername
+
+to check the status of file
+git status
+
+To add new file to github
+git add new file name
+
+To add message
+git commit -m "message"
+
+The git push command is used to upload local repository content to a remote repository.
+git push orgin main
+
+The git pull command is used to retrieve and download content from a remote repository
+ and update the local repository as soon as it has been downloaded.
+git pull
+
+Initialized empty git repository
+git init
+
+Move all modified file to staging area
+git add.
+
+to change branch name
+git branch -M main
+
+list the branches
+git branch -a
+
+
+
+
