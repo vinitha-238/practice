@@ -1,0 +1,215 @@
+
+user stories                                                                                                                       26/02/24
+ A user story is an informal, general explanation of a software feature written from the perspective of the end user.
+Its purpose is to articulate how a software feature will provide value to the customer.
+The purpose of a user story—in the context of software development—is to convey the value a product feature gives 
+to the end user. It also provides a useful reference point when creating new content, ensuring that it's actually
+ useful to the end reader.
+User stories clarify and detail how these use cases are implemented in terms of user actions.
+A user story answers the following questions:
+
+who?
+does what?
+does it to get what?
+
+When should user stories be used?
+User stories are written at all development stages
+
+Where are user stories used?
+Its purpose is to articulate how a software feature will provide value to the customer.
+
+3c's
+Card: This is the physical or digital card where the user story is written. It serves as a placeholder for a conversation. 
+The card usually contains a brief description of the desired functionality from the user's perspective.
+
+Conversation: This represents the discussions and interactions among team members,
+ particularly between the product owner and the development team,
+ regarding the details and acceptance criteria of the user story.
+ Conversations help to clarify requirements, resolve doubts, and ensure everyone is aligned on what needs to be done.
+
+Confirmation: Also known as acceptance criteria, this outlines the conditions that must be met for the user story 
+to be considered complete and implemented successfully. Confirmation criteria help to define the boundaries of the user story 
+and provide a clear definition of done.
+
+user story format
+“As a [persona], I [want to], [so that].” 
+example:
+
+
+User Story Format :
+  As a librarian, I want to be able to add new books to the library catalog so that patrons can easily find and borrow them.
+
+Acceptance Criteria:
+It begins with-
+    I can access the search feature from the library's website or mobile app.
+Action taken-
+    I can access the "Add New Book" feature from the librarian dashboard.
+    I can input the book's title, author, published year and other relevant information.
+    The system should automatically generate a unique identifier (e.g., accession number) for the book.
+Outcome- 
+    Once added, the book should be visible in the library catalog for patrons to search and find.
+
+Acceptance criteria
+   Acceptance criteria (AC) are the conditions a software product must meet to be accepted by a user, a customer, or other systems.
+   The acceptance criteria are what should be done to solve their problem or achieve their goal. 
+   Each user story should have between 4 and 12 acceptance criteria.
+Good acceptance criteria should possess specific qualities.
+1.Clarity
+2.Consiceness
+3.Testability
+4.Result oriented
+
+
+INVEST
+Under the INVEST criteria, good user stories are:
+
+Independent
+Negotiable
+Valuable
+Estimable
+Small
+Testable
+
+Independent
+  The story is not dependent on other stories getting done.
+  Why it matters: Dependencies cause delays. You don’t get user-ready working software until both or all dependent stories are complete.
+
+Negotiable
+  User stories should be open to negotiate.
+  Developer comments need to considered.
+
+Valuable
+  The user story being developed should provide value to the customer.
+
+Estimable
+The story gives the development team enough detail to estimate the size of the story.
+Then need to know the size of the stories so you can plan an iteration that will deliver working software. Plus, product owners need to know 
+the size so they can prioritise the stories that give the most value for the least effort.
+
+Small
+The story is the smallest piece of work that will deliver useful software.
+
+ Agile works in short iterations so you can get fast feedback from your users. If you want to deliver working software each iteration,
+ short iterations necessarily require small stories. The smaller the story, the more likely it will be delivering value by iteration’s end.
+
+Testable
+The user story must be testable to verify if completed or any bugs exists.
+
+If there isn’t a Yes or No answer to the question, “Have each of the acceptance criteria been met?” then developers 
+can’t write automated tests and the product owner can’t check the story when it’s up for acceptance.
+
+Epic
+ Epics are collections of tasks or user stories.
+ an agile epic is a collection of smaller user stories that describe a large work item.
+ Consider an epic a large user story.
+ For example, 
+epics are often used to describe a new product feature or bigger piece of functionality to be developed.
+
+
+Product owner
+     The product owner is responsible for managing and optimizing the product backlog in order to maximize the 
+value of the product resulting the work of development team.
+
+ The key responsibilities of a Product Owner are to define user stories and create a product backlog.
+ The Product Owner has the complete responsibility and ownership of defining and even prioritizing user requirements.
+ The Product Owner must communicate with the development team to explain the product features to be implemented.
+ The Product Owner has to collaborate and work closely with various stakeholders such as customers, business leaders,
+ development teams, project managers, and other stakeholders.  
+
+One of the main roles of a Product Owner is to manage the product backlog. This may include the following activities:
+
+  The product backlog must be clearly defined, and all the items need to be mentioned elaborately.
+   
+  Prioritize work items and product backlog, this must be in line with customer vision and goals.
+
+  Evaluate the work done by the development team and provide constant feedback.
+  The Product Owner must ensure that the product backlog is communicated clearly to all team members. 
+  The Scrum Team must have clarity on the product requirements and user expectations.   
+
+a Product Owner needs to have certain key skill sets like:
+
+Domain Experience
+  Domain knowledge is one of the key requirements of the Product Owner role. 
+  Often, one of the major reasons behind the hiring of Product Owners is product and industry knowledge.
+ The Product Owner must ideally understand the customer's industry and how they would be using the product. 
+
+Leadership and Communication Skills
+ The Product Owner must have excellent communication and leadership skills.
+ As one of the significant responsibilities of the role is interacting with many stakeholders, it is imperative to be
+ able to convince team members on achieving the required goal. 
+
+Maximize Value
+  The product must be released in a short period. Hence, it is important to prioritize requirements 
+  and what is of utmost importance to be delivered. 
+  The Product Owner must ensure maximum product value in line with customer expectations and product vision. 
+
+Effective Interpretation of Customer Requirements
+  The Product Owner is the single point of contact for understanding customer requirements and expectations from the product.
+  He/she must interpret customer requirements and define them with product functionality.
+  Customer requirements need to be properly translated and communicated in the right technical language
+  so that the development team can easily understand and interpret them. 
+
+Scrum
+   Scrum is an agile project management framework that helps teams structure and manage their work
+ through a set of values, principles, and practices. 
+
+Features of Scrum
+   Scrum is simple to understand
+   it helps the team to work together
+
+27-02-2024
+Sprint 
+     Sprint is one timeboxed iteration of a continuous development cycle.
+    Within a Sprint, planned amount of work has to be completed by the team and made ready for review.
+    Scrum projects are broken down into small and consistent time intervals referred to as sprints. 
+    They can be as short as a few days and generally are no longer than 3 – 4 weeks.
+
+Sprint backlog
+   A sprint backlog is a subset of the product backlog and lists the work items to complete in one specific sprint.
+
+Product owner
+   The product owner is responsible for managing and optimizing the product backlog in order to maximize the value of the product.
+   Imagine a team is developing a new mobile app for a fitness company. The Product Owner in this scenario would be responsible for 
+   representing the interests of both the stakeholders (such as the company executives, marketing team, and end-users) and the development team.
+   Gathering Requirements:
+       The Product Owner regularly meets with stakeholders to gather requirements and understand their needs and priorities.
+  Backlog Management: In real-time, the Product Owner constantly prioritizes the features and tasks that need to be implemented by the development team.
+       They may add, remove, or reprioritize items in the backlog based on feedback, market changes, or new requirements
+  Daily Stand-ups: 
+     The Product Owner attends daily stand-up meetings with the development team to provide guidance, 
+     answer questions, and ensure that the team is aligned with the overall vision and goals of the project.
+ Decision Making:
+       In real-time, the Product Owner is often faced with making quick decisions to keep the project on track.
+  User Feedback:
+     The Product Owner regularly gathers feedback from users through various channels, such as app reviews, surveys, and user testing sessions. 
+     They use this feedback to identify areas for improvement and prioritize enhancements to the app.
+ Iteration Planning:
+     As the development team completes iterations or sprints, the Product Owner reviews the work done 
+   and plans the next steps based on feedback, priorities, and business objectives.
+
+
+Product backlog
+   A product backlog is an ordered list of tasks, features, or items to be completed as part of a larger roadmap. 
+   It is created by product owner
+Scrum Master
+    The person on the scrum team accountable for implementing the scrum framework, coaching others to understand it better, 
+   and enabling the team to continuously improve. If you become a scrum master, your daily responsibilities will depend on the context.
+
+Increment
+   Each Increment is additive to all prior Increments and thoroughly verified to make sure that it works with all the other Increments. 
+   In order to provide value, the increment must be usable. Multiple increments may be created within a Sprint.
+
+Daily scrum
+  The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. 
+  To reduce complexity, it is held at the same time and place every working day of the Sprint.
+
+Sprint retrospective
+ A sprint retrospective is a type of meeting within the Agile framework, 
+when teams reflect on what went well and what could be improved for their next sprint. 
+
+
+
+      
+
+ 
+
