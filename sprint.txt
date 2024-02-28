@@ -1,0 +1,33 @@
+Release cycle
+   A release cycle is the life cycle of developing, testing,
+   and deploying a product update or a new feature into production.
+
+Sprint cycle
+   Scrum sprint cycle is a timeboxed period when a team delivers a set amount of work. 
+  It is typically two to four weeks in duration and each sprint starts the moment the previous one is completed.
+
+Sprint happen
+  If a Sprint traditionally takes 1-2 weeks to complete, then a retrospective should be held every 7-14 days.
+
+Retrospective 
+   A sprint retrospective is a type of meeting within the Agile framework that happens at the end of a sprint.
+   A sprint retrospective gives you an opportunity to review your latest sprint 
+  and make improvements for future sprints. These meetings are essential because
+  regularly assessing and improving processes leads to quality results and fewer obstacles.
+
+Retrospective meeting
+  
+   The retrospective meeting follows a specific agenda or format, which may include activities such as
+ reviewing the previous iteration's goals, discussing successes and challenges, identifying areas for improvement,
+ and deciding on action items for the next iteration.
+
+Sprint burn down chart
+Shows 
+    Total efforts
+    Amount of efforts remaining
+    Number of days in sprint and days past 
+    Ideal trend
+    Current trend
+
+Benefit
+    If any deviation - adjustment
