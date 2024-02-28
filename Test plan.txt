@@ -1,0 +1,37 @@
+28/02/24
+ TEST PLAN
+  A test plan is a detailed document which describes software testing areas and activities.
+  It outlines the test strategy, objectives, test schedule,
+ required resources (human resources, software, and hardware), test estimation and test deliverables.
+
+Follow these six steps to create an efficient test plan:
+
+1.Define the release scope
+      to understand the scope of the project
+ 
+2. Schedule timelines 
+      to help you decide your testing time and routine.
+3. Define test objectives
+      reason or purpose for designing and executing a test to guide testing process
+4.Determine test deliverables
+      The products of testing that help track testing progress.
+     Deliverables should meet your project’s and client’s needs
+
+  Before testing
+    Test plan document
+    Test suite
+    Test design and environment specifications
+  During testing
+   Test log
+   Defect report
+   Test data
+   Test summary report
+ After testing
+  Test completion report
+  User acceptance test (UAT) report
+  Release notes
+
+5.Design the test strategy
+     determine test cost, test effort, and which features will be in-scope
+6.Plan test environment and test data 
+     The test environment includes hardware, software, and network configurations for software testing.
